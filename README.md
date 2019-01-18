@@ -54,7 +54,7 @@ or click the deploy button to see it live.
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/graphcool-examples/react-relay-instagram-example)
 
-## Help & Community [![Slack Status](https://slack.graph.cool/badge.svg)](https://slack.graph.cool)
+## Help & Community [![Slack Status](https://slack.graph.cool/badge.svg)](https://slack.graph.cool) [![Greenkeeper badge](https://badges.greenkeeper.io/SimonSiefke/react-relay-instagram-example.svg)](https://greenkeeper.io/)
 
 Join our [Slack community](http://slack.graph.cool/) if you run into issues or have questions. We love talking to you!
 
